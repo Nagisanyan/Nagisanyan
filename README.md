@@ -4,7 +4,7 @@
 
 ### Physics • Research • Software • AI
 
-*Building systems to understand, analyze and explore complex problems.*
+*Exploring complex problems through science, computation and software.*
 
 <br>
 
@@ -16,29 +16,30 @@
 
 ---
 
-## 👋 About Me
+# 👋 About Me
 
-I'm **Uzi**, a physicist, researcher and software developer interested
-in the intersection of **physics, mathematics, computation, artificial
+I'm **Uzi** — a physicist, researcher and software developer exploring
+the intersection of **physics, mathematics, computation, artificial
 intelligence and software engineering**.
 
-My work combines scientific research with the development of software
-systems designed to investigate, analyze and solve complex problems.
+My projects range from scientific research and computational
+experimentation to security tools, automation and experimental
+software systems.
 
-My interests span across:
+I enjoy working at the boundaries between disciplines:
 
-- 🔬 Scientific research
-- 🌌 Physics & computational science
+- 🔬 Physics & scientific research
 - 🧮 Mathematics & modelling
-- 🤖 Artificial intelligence
 - 💻 Software engineering
+- 🤖 Artificial intelligence
+- 🌌 Computational science
 - 🛡️ Defensive cybersecurity
-- ⚙️ Automation & systems
+- ⚙️ Automation
 - 📊 Data analysis & simulation
 
-I don't see these fields as isolated disciplines.
+I don't see these domains as isolated fields.
 
-They are different tools for approaching the same fundamental process:
+They are different ways of approaching the same process:
 
 > **Understand the problem. Build a model. Test it. Learn from the result.**
 
@@ -46,36 +47,35 @@ They are different tools for approaching the same fundamental process:
 
 # 🔬 Research
 
-My research interests are centered around **physics and computational
+My research interests focus primarily on **physics and computational
 approaches to scientific investigation**.
 
-I am particularly interested in questions where mathematics,
-computation and physical reasoning can be combined to explore systems
-that are difficult to study directly.
+I am interested in problems where mathematical reasoning, physical
+models and computational tools can work together to explore questions
+that are difficult to investigate directly.
 
 ### Areas of interest
 
-| Field | Interests |
+| Field | Focus |
 |---|---|
-| 🌌 Physics | Fundamental questions and physical modelling |
-| 🧮 Mathematics | Mathematical structures and formalization |
-| 💻 Computational Physics | Numerical modelling and simulation |
+| 🌌 Physics | Physical models and fundamental questions |
+| 🧮 Mathematics | Formalization, structures and mathematical modelling |
+| 💻 Computational Physics | Numerical methods and simulations |
 | 🔭 Astrophysics | Physical systems at astronomical scales |
 | 🌠 Cosmology | Fundamental questions about the universe |
-| 🤖 Artificial Intelligence | Computational reasoning and scientific assistance |
-| 📊 Data Analysis | Analysis, visualization and computational investigation |
+| 🤖 AI | Computational tools and scientific assistance |
+| 📊 Data Analysis | Analysis, visualization and computational experimentation |
 
-### Research methodology
+### Research philosophy
 
-I try to maintain a clear distinction between different levels of
-scientific knowledge:
+I try to keep a clear distinction between:
 
 ```text
 Observation
      ↓
 Data
      ↓
-Mathematical / Computational Model
+Model
      ↓
 Hypothesis
      ↓
@@ -86,25 +86,29 @@ Result
 Interpretation
 ```
 
-A computational result can support a hypothesis without proving it.
+A simulation is not automatically an experiment.
 
-A model can describe a system without being the system itself.
+A model is not reality.
 
-A hypothesis can be interesting without being established.
+A hypothesis is not a proof.
 
-This distinction is important to the way I approach and document
-research.
+A computational result is not automatically a scientific conclusion.
+
+Keeping these distinctions clear is an important part of how I
+approach research.
 
 ---
 
 # 🌌 Long-Term Physics Research
 
-I am working on a **large-scale, long-term research project in physics**.
+I am currently developing a **large-scale, long-term research project
+in physics**.
 
-The project is being developed as a research program rather than as a
-single isolated experiment.
+Rather than treating it as a single isolated experiment, I approach
+it as a growing research program involving theory, mathematics,
+computation and experimentation.
 
-Its development combines several complementary approaches:
+The general workflow is:
 
 ```text
                     PHYSICAL QUESTION
@@ -116,7 +120,7 @@ Its development combines several complementary approaches:
                       FORMALIZATION
                            │
                            ▼
-                   COMPUTATIONAL MODEL
+                  COMPUTATIONAL MODEL
                            │
                            ▼
                        SIMULATION
@@ -133,9 +137,9 @@ Its development combines several complementary approaches:
 
 The research is still evolving.
 
-For that reason, proposed explanations, mathematical constructions and
-new ideas are treated according to their actual status rather than
-being presented as established scientific facts.
+Ideas, hypotheses and theoretical constructions are therefore treated
+according to their current status rather than presented as established
+scientific results.
 
 The long-term objective is to progressively transform ideas into
 formal, testable and reproducible research.
@@ -144,73 +148,70 @@ formal, testable and reproducible research.
 
 # 🧠 Aletheia Lab
 
-**Aletheia Lab** is my research environment for developing and
-documenting scientific ideas.
+**Aletheia Lab** is my research environment for developing,
+organizing and documenting scientific ideas.
 
 The project is built around the combination of:
 
-**theory + computation + experimentation + verification + documentation**
+> **Theory + Computation + Experimentation + Verification + Documentation**
 
-### Core areas
+### Core directions
 
-- 🔬 Scientific research
-- 🧮 Mathematics
-- 🌌 Physics
-- 💻 Computational modelling
-- 🤖 Artificial intelligence
-- 🧪 Experimental workflows
+- 🔬 Physics research
+- 🧮 Mathematical modelling
+- 💻 Computational experimentation
+- 🤖 AI-assisted research
 - 📊 Data analysis
-- 📚 Research documentation
+- 🧪 Experimental workflows
+- 📚 Scientific documentation
 
 ### Research workflow
 
 ```text
-                    QUESTION
-                       │
-                       ▼
-                   HYPOTHESIS
-                       │
-                       ▼
-                  FORMALIZATION
-                       │
-                       ▼
-                     MODEL
-                       │
-                       ▼
-                  EXPERIMENT
-                       │
-             ┌─────────┴─────────┐
-             ▼                   ▼
-        SIMULATION            ANALYSIS
-             │                   │
-             └─────────┬─────────┘
-                       ▼
-                     RESULT
-                       │
-                       ▼
-                  VERIFICATION
-                       │
-                       ▼
-                 DOCUMENTATION
+                       QUESTION
+                          │
+                          ▼
+                      HYPOTHESIS
+                          │
+                          ▼
+                     FORMALIZATION
+                          │
+                          ▼
+                        MODEL
+                          │
+                          ▼
+                     EXPERIMENT
+                          │
+                ┌─────────┴─────────┐
+                ▼                   ▼
+           SIMULATION            ANALYSIS
+                │                   │
+                └─────────┬─────────┘
+                          ▼
+                       RESULT
+                          │
+                          ▼
+                    VERIFICATION
+                          │
+                          ▼
+                    DOCUMENTATION
 ```
 
-Aletheia is intended to grow alongside my research.
+Aletheia is intended to grow alongside the research itself.
 
-The objective is not simply to generate ideas, but to create a
-structured environment where those ideas can be examined, tested,
+The objective is not simply to collect ideas, but to create an
+environment where ideas can be formalized, investigated, tested,
 refined and documented.
 
 ---
 
 # 🌑 Abyss Company
 
-**Abyss Company** is the ecosystem that brings together my software,
+**Abyss Company** is the broader ecosystem connecting my software,
 security, artificial intelligence and research projects.
 
-Rather than treating every repository as an isolated project, Abyss
-Company is intended to become a coherent environment where different
-systems can evolve independently while remaining part of a larger
-technical ecosystem.
+The idea is to develop projects independently while allowing them to
+become parts of a larger technical ecosystem.
 
 ```text
                          ABYSS COMPANY
@@ -221,72 +222,135 @@ technical ecosystem.
        RESEARCH             SECURITY             SOFTWARE
           │                    │                    │
           ▼                    ▼                    ▼
-   Aletheia Lab          Aegis Analyzer       Experimental
-                                               Systems
-          │                    │                    │
-          └────────────────────┼────────────────────┘
-                               │
-                               ▼
-                         FUTURE PROJECTS
+   Aletheia Lab              Aegis              Future
+                               │                 Projects
+                       ┌───────┴───────┐
+                       │               │
+                       ▼               ▼
+                  Discord Bot      Analyzer
 ```
 
-### Current directions
+### Abyss focuses on
 
 🔬 **Research**
 
-Physics, computational science and scientific reasoning.
+Physics, computational science and scientific investigation.
 
 🛡️ **Security**
 
-Defensive analysis, investigation and security-oriented software.
+Defensive analysis, security tooling and investigation.
 
 🤖 **Artificial Intelligence**
 
-Systems exploring computational reasoning and intelligent tools.
+AI-assisted systems and experimental intelligent tools.
 
 💻 **Software**
 
-Tools, automation, APIs and experimental applications.
+Applications, APIs, automation and infrastructure.
 
 ---
 
-# 🛡️ Aegis Analyzer
+# 🛡️ Aegis
 
-**Aegis Analyzer** is a defensive analysis project focused on the
-analysis of files and potentially suspicious artifacts.
+**Aegis** is my security-oriented project ecosystem.
 
-The project aims to transform low-level observations into structured
-and understandable evidence.
+It currently includes two distinct directions:
+
+```text
+                           AEGIS
+                             │
+                ┌────────────┴────────────┐
+                │                         │
+                ▼                         ▼
+        Aegis Discord Bot          Aegis Analyzer
+                │                         │
+                ▼                         ▼
+        Security & Automation       File Analysis
+                │                         │
+                └────────────┬────────────┘
+                             │
+                             ▼
+                     Defensive Security
+```
+
+---
+
+## 🤖 Aegis Discord Bot
+
+**Security • Support • Automation**
+
+Aegis began as a Discord-oriented security and support bot.
+
+The project explores the integration of security intelligence,
+automation and community-oriented tools into Discord.
+
+### Main directions
+
+- 🛡️ Security-oriented utilities
+- 🔎 URL and domain analysis
+- 🦠 Threat intelligence lookups
+- 🌐 Security intelligence integrations
+- 🤖 Automated assistance
+- 📢 Security-related announcements
+- ⚙️ Discord automation
+- 🔗 External API integrations
+
+The project has experimented with integrations including:
+
+```text
+Discord
+VirusTotal
+Shodan
+urlscan
+OpenAI
+```
+
+The purpose is to make useful security information more accessible
+through an automated interface rather than requiring every user to
+manually query several different services.
+
+---
+
+## 🔎 Aegis Analyzer
+
+**Defensive File Analysis**
+
+Aegis Analyzer extends the Aegis ecosystem toward dedicated defensive
+analysis.
+
+The project focuses on analyzing files and potentially suspicious
+artifacts and transforming technical observations into structured
+evidence.
 
 ### Concept
 
 ```text
-                        INPUT
-                          │
-                          ▼
-                 ┌─────────────────┐
-                 │     ANALYSIS    │
-                 └────────┬────────┘
-                          │
-          ┌───────────────┼───────────────┐
-          │               │               │
-          ▼               ▼               ▼
-       Static          Metadata        Behaviour
-       Analysis        Analysis        Analysis
-          │               │               │
-          └───────────────┼───────────────┘
-                          │
-                          ▼
-                      EVIDENCE
-                          │
-                          ▼
-                     CORRELATION
-                          │
-                          ▼
-                       REPORT
+                         INPUT
+                           │
+                           ▼
+                    ┌─────────────┐
+                    │   ANALYSIS  │
+                    └──────┬──────┘
+                           │
+             ┌─────────────┼─────────────┐
+             │             │             │
+             ▼             ▼             ▼
+          Static        Metadata      Behaviour
+          Analysis      Analysis      Analysis
+             │             │             │
+             └─────────────┼─────────────┘
+                           │
+                           ▼
+                        EVIDENCE
+                           │
+                           ▼
+                       CORRELATION
+                           │
+                           ▼
+                         REPORT
 ```
 
-The philosophy behind Aegis is to emphasize:
+### Principles
 
 - Evidence over assumptions
 - Structured observations
@@ -294,46 +358,60 @@ The philosophy behind Aegis is to emphasize:
 - Explainable results
 - Clear separation between indicators and conclusions
 
-The long-term direction is to evolve Aegis from an analyzer into a
-broader defensive analysis platform.
+The long-term direction is to expand Aegis beyond a single analyzer
+toward a broader defensive analysis platform.
 
 ---
 
 # 🚀 Projects
 
-## 🔬 Aletheia Lab
+### 🧠 Aletheia Lab
 
 **Scientific research environment**
 
 `Physics` · `Mathematics` · `Computation` · `AI`
 
-A long-term environment for exploring, formalizing, testing and
+A research environment for exploring, formalizing, testing and
 documenting scientific ideas.
 
 ---
 
-## 🛡️ Aegis Analyzer
+### 🤖 Aegis Discord Bot
+
+**Security, support & automation**
+
+`Discord` · `Security` · `Automation` · `Threat Intelligence`
+
+A Discord-oriented security project integrating automated tools and
+external security intelligence.
+
+---
+
+### 🔎 Aegis Analyzer
 
 **Defensive analysis platform**
 
 `Security` · `File Analysis` · `Evidence` · `Automation`
 
-A project focused on turning technical observations into structured
-security analysis.
+A project focused on structured analysis of files and potentially
+suspicious artifacts.
 
 ---
 
-## 🌑 Abyss Company
+### 🌑 Abyss Company
 
 **Software & research ecosystem**
 
 `Research` · `Security` · `AI` · `Software`
 
-The umbrella under which my larger projects are organized.
+The broader ecosystem connecting my independent projects.
 
 ---
 
 # ⚙️ Technical Stack
+
+My technical stack evolves according to the problems each project
+needs to solve.
 
 ## Languages
 
@@ -345,7 +423,7 @@ The umbrella under which my larger projects are organized.
 
 </div>
 
-## Development & Infrastructure
+## Development
 
 <div align="center">
 
@@ -355,25 +433,19 @@ The umbrella under which my larger projects are organized.
 
 </div>
 
-## APIs & Systems
+## Areas
 
 ```text
-REST APIs
-Automation
-Data Analysis
-File Analysis
 Scientific Computing
+Software Engineering
+Artificial Intelligence
+Data Analysis
 Simulation
-AI-assisted Development
+Automation
+API Development
+Defensive Security
+File Analysis
 ```
-
-## Fields
-
-<div align="center">
-
-`PHYSICS` · `RESEARCH` · `AI` · `SOFTWARE` · `SECURITY` · `AUTOMATION`
-
-</div>
 
 ---
 
@@ -397,7 +469,7 @@ AI-assisted Development
 
 ---
 
-# 🏆 GitHub Contributions
+# 🏆 GitHub Overview
 
 <div align="center">
 
@@ -409,34 +481,35 @@ AI-assisted Development
 
 # 🧪 How I Build
 
-I prefer long-term projects that can evolve through multiple stages.
+I prefer projects that can evolve through several stages rather than
+being treated as finished from the beginning.
 
 ```text
-                    IDEA
-                     │
-                     ▼
-                  RESEARCH
-                     │
-                     ▼
-                 PROTOTYPE
-                     │
-                     ▼
-                 EXPERIMENT
-                     │
-                     ▼
-                 VALIDATION
-                     │
-                     ▼
-                DOCUMENTATION
-                     │
-                     ▼
-                  RELEASE
-                     │
-                     ▼
-                 ITERATION
+                         IDEA
+                           │
+                           ▼
+                        RESEARCH
+                           │
+                           ▼
+                       PROTOTYPE
+                           │
+                           ▼
+                       EXPERIMENT
+                           │
+                           ▼
+                       VALIDATION
+                           │
+                           ▼
+                      DOCUMENTATION
+                           │
+                           ▼
+                        RELEASE
+                           │
+                           ▼
+                       ITERATION
 ```
 
-A project does not need to be perfect before it becomes useful.
+A project does not have to be perfect before it becomes useful.
 
 It needs to be understandable enough to be improved.
 
@@ -444,8 +517,33 @@ It needs to be understandable enough to be improved.
 
 # 📚 Research Principles
 
-Some principles guide the way I approach both software development
-and scientific research.
+## Evidence before certainty
+
+Interesting ideas are worth exploring, but they should remain
+distinguishable from verified results.
+
+## Reproducibility
+
+Whenever possible, research and computational results should be
+documented so that the process can be understood and reproduced.
+
+## Iteration
+
+A failed experiment is still information.
+
+A model that does not work can reveal something about the assumptions
+behind it.
+
+## Documentation
+
+Ideas become more useful when their origin, assumptions, methodology
+and limitations are recorded.
+
+---
+
+# 🧭 A Way of Thinking
+
+A few distinctions matter across both science and software:
 
 ```text
 Facts        ≠ Hypotheses
@@ -455,33 +553,15 @@ Simulations  ≠ Experiments
 Results      ≠ Conclusions
 ```
 
-### Evidence before certainty
+The goal is not to avoid uncertainty.
 
-Interesting ideas are worth exploring, but they should remain
-distinguishable from verified results.
-
-### Reproducibility
-
-Whenever possible, research and computational results should be
-documented so that the process can be understood and reproduced.
-
-### Iteration
-
-A failed experiment is still information.
-
-A model that does not work can reveal something about the assumptions
-behind it.
-
-### Documentation
-
-Ideas become much more useful when their origin, assumptions,
-methodology and limitations are recorded.
+The goal is to understand where the uncertainty comes from.
 
 ---
 
 # 🛰️ Current Focus
 
-My current work is distributed across several long-term directions:
+My current work revolves around several connected directions:
 
 ```text
 ┌──────────────────────────────────────────────────────────┐
@@ -492,12 +572,12 @@ My current work is distributed across several long-term directions:
 ├──────────────────────────────────────────────────────────┤
 │                                                          │
 │  🧠 ALETHEIA LAB                                         │
-│  Scientific reasoning, modelling and experimentation     │
+│  Scientific research, modelling and documentation        │
 │                                                          │
 ├──────────────────────────────────────────────────────────┤
 │                                                          │
-│  🛡️ AEGIS ANALYZER                                      │
-│  Defensive analysis and security research                │
+│  🛡️ AEGIS                                                │
+│  Security, automation and defensive analysis             │
 │                                                          │
 ├──────────────────────────────────────────────────────────┤
 │                                                          │
@@ -509,11 +589,11 @@ My current work is distributed across several long-term directions:
 
 ---
 
-# 🔭 What Comes Next
+# 🔭 Future Directions
 
 The projects presented here are intended to evolve over time.
 
-Future work may expand toward:
+Potential directions include:
 
 - More advanced scientific simulations
 - Larger computational research systems
@@ -521,10 +601,11 @@ Future work may expand toward:
 - Advanced defensive analysis
 - Research-oriented software infrastructure
 - Open-source scientific tools
-- Integration between computational research and AI
+- More extensive security automation
+- Integration between computation, AI and scientific research
 
-The exact direction will depend on what survives experimentation,
-development and verification.
+The direction of each project will ultimately be determined by
+experimentation, development and validation.
 
 ---
 
@@ -534,7 +615,9 @@ I am interested in the boundary between what we **know**, what we
 **can calculate**, what we **hypothesize**, and what we **do not yet
 understand**.
 
-That distinction is important both in science and in software.
+That boundary is where science becomes interesting.
+
+And it is also where software becomes a tool for exploration.
 
 > **Explore freely. Formalize carefully. Test relentlessly.**
 
@@ -550,7 +633,6 @@ That distinction is important both in science and in software.
 
 <br>
 
-[GitHub](https://github.com/Nagisanyan) •
-[Abyss Company](https://github.com/Nagisanyan)
+[GitHub](https://github.com/Nagisanyan)
 
 </div>
